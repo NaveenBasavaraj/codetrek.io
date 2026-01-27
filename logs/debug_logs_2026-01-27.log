@@ -1,0 +1,24 @@
+2026-01-27 12:57:25,554 - [INFO] - code_logger - wrapper - Executed function 'sum_digits' in 0.0000 seconds
+2026-01-27 12:57:25,554 - [INFO] - code_logger - wrapper - Executed function 'reverse_a_number' in 0.0000 seconds
+2026-01-27 12:58:36,274 - [INFO] - code_logger - wrapper - Executed function 'sum_digits' in 0.0000 seconds
+2026-01-27 12:58:36,277 - [INFO] - code_logger - wrapper - Executed function 'reverse_a_number' in 0.0000 seconds
+2026-01-27 13:06:03,300 - [INFO] - code_logger - wrapper - Executed function 'sum_digits' in 0.0000 seconds
+2026-01-27 13:06:03,301 - [INFO] - code_logger - wrapper - Executed function 'reverse_a_number' in 0.0000 seconds
+2026-01-27 13:10:29,334 - [INFO] - code_logger - wrapper - Executed function 'sum_digits' in 0.0000 seconds
+2026-01-27 13:10:29,334 - [DEBUG] - code_logger - reverse_a_number - initial number 12345 and rev num 0
+2026-01-27 13:10:29,334 - [DEBUG] - code_logger - reverse_a_number - last_digit 5
+2026-01-27 13:10:29,334 - [DEBUG] - code_logger - reverse_a_number - reversed_num 5
+2026-01-27 13:10:29,334 - [DEBUG] - code_logger - reverse_a_number - num 1234
+2026-01-27 13:10:29,334 - [DEBUG] - code_logger - reverse_a_number - last_digit 4
+2026-01-27 13:10:29,334 - [DEBUG] - code_logger - reverse_a_number - reversed_num 54
+2026-01-27 13:10:29,334 - [DEBUG] - code_logger - reverse_a_number - num 123
+2026-01-27 13:10:29,334 - [DEBUG] - code_logger - reverse_a_number - last_digit 3
+2026-01-27 13:10:29,335 - [DEBUG] - code_logger - reverse_a_number - reversed_num 543
+2026-01-27 13:10:29,335 - [DEBUG] - code_logger - reverse_a_number - num 12
+2026-01-27 13:10:29,335 - [DEBUG] - code_logger - reverse_a_number - last_digit 2
+2026-01-27 13:10:29,335 - [DEBUG] - code_logger - reverse_a_number - reversed_num 5432
+2026-01-27 13:10:29,335 - [DEBUG] - code_logger - reverse_a_number - num 1
+2026-01-27 13:10:29,335 - [DEBUG] - code_logger - reverse_a_number - last_digit 1
+2026-01-27 13:10:29,335 - [DEBUG] - code_logger - reverse_a_number - reversed_num 54321
+2026-01-27 13:10:29,335 - [DEBUG] - code_logger - reverse_a_number - num 0
+2026-01-27 13:10:29,335 - [INFO] - code_logger - wrapper - Executed function 'reverse_a_number' in 0.0014 seconds
