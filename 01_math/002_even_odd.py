@@ -17,4 +17,11 @@ class EvenOdd:
     
     @staticmethod
     def separate_even_and_odds(nums):
+        even = list(filter(lambda x:x%2==0, nums))
+        odd = list(filter(lambda x:x%2!=0, nums))
+        return f"even {even} and odd {odd}"
+    
+if __name__ == "__main__":
+    res = EvenOdd()
+    print(res.separate_even_and_odds([1,2,3,4,5,6,7,8]))
         
