@@ -53,13 +53,13 @@ class BurgerStore(ABC):
         return burger
 
 class CheeseBurger(Burger):
-    def create_burger(self):
+    def __init__(self):
         super().__init__()
         self.name = "Cheese Burger"
         self.bread = "White Bread"
         self.sauce = "Chilli"
         self.toppings = ["Cheese", "Tomato"]
-    
+ 
     def prepare(self):
         pass
 
@@ -73,7 +73,7 @@ class CheeseBurger(Burger):
         return self.name
 
 class DeluxeCheeseBurger(Burger):
-    def create_burger(self):
+    def __init__(self):
         super().__init__()
         self.name = "Deluxe Cheese Burger"
         self.bread = "Wheat Bread"
