@@ -1,11 +1,6 @@
 README.md
 codelogger.py
 setup.py
-01_math/001_digits_operations.py
-01_math/002_even_odd.py
-01_math/003_primes.py
-01_math/004_fibonacci.py
-01_math/__init__.py
 codetrek.egg-info/PKG-INFO
 codetrek.egg-info/SOURCES.txt
 codetrek.egg-info/dependency_links.txt

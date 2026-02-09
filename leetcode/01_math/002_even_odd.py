@@ -1,11 +1,11 @@
 class EvenOdd:
     @staticmethod
     def is_even(num):
-        return n%2==0
+        return num%2==0
     
     @staticmethod
     def is_odd(num):
-        return n%2 != 0
+        return num%2 != 0
     
     @staticmethod
     def sum_of_evens_upto(num):
